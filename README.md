@@ -10,7 +10,7 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 |  3 |    53 | Private          |   234721 | 11th        |               7 | Married-civ-spouse | Handlers-cleaners | Husband        | Black  | Male   |              0 |              0 |               40 | United-States    | <=50K    |
 |  4 |    28 | Private          |   338409 | Bachelors   |              13 | Married-civ-spouse | Prof-specialty    | Wife           | Black  | Female |              0 |              0 |               40 | Cuba             | <=50K    |
 
-### Data Source: Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/) Irvine, CA: University of California, School of Information and Computer Science.
+### Data Source: Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult) Irvine, CA: University of California, School of Information and Computer Science.
 
 
 You must use Pandas to answer the following questions:
